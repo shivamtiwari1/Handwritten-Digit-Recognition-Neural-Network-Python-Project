@@ -27,6 +27,9 @@ Python 3.x – Programming language<br>
 
 NumPy (Numerical Python) – Array and matrix operations<br>
 
+📈 Results<br>
+The model achieves an accuracy of approximately 97% on the test dataset, demonstrating the effectiveness of neural networks in image classification tasks.
+
 Matplotlib – Data visualization<br>
 
 TensorFlow – (Optional) For advanced experimentation<br>
