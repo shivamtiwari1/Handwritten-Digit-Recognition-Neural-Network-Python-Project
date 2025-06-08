@@ -38,3 +38,7 @@ OpenCV (Open Source Computer Vision Library) – Image handling<br>
 
 
  Download Envoirment frist to run code 
+
+Link for PPTX: https://docs.google.com/presentation/d/1SlB0lI4l4RLjaIVvEzABKORTwxv5zKr5/edit?usp=sharing&ouid=101510631044161991942&rtpof=true&sd=true
+
+Link For Vedio Representation: https://drive.google.com/file/d/1UbLhWaXAylQSmsUmRHQ_uIyD2Bb6r4WZ/view?usp=sharing
