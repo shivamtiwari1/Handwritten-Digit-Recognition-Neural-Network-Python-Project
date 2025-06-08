@@ -35,3 +35,6 @@ Matplotlib – Data visualization<br>
 TensorFlow – (Optional) For advanced experimentation<br>
 
 OpenCV (Open Source Computer Vision Library) – Image handling<br>
+
+
+ Download Envoirment frist to run code 
